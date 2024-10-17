@@ -1,0 +1,33 @@
+MOTIVATION-WHY DID YOU CHOSE THIS PROJECT?
+i chose this because from child i like games.
+i really want to make them myself.i wanted to
+know how they are made so from this tic tac
+toe i experience for the first time how games
+are made,
+
+HIGHLIGHTS:
+here players can select row and column in 
+which they will make their move and if they
+win their name get displayed.
+
+LEARNING:
+for the first time i wrote code above 100
+lines.i learn how to make something from 
+scratch,it pushes my brain to think 
+differently and i really enjoyed it.
+
+AREAS OF IMPROVEMENT
+beautiful background dispaly and sound 
+effects for each move
+
+FUTURE SCOPE:
+allowing players to challenge random people 
+on internet
+
+CONTRIBUTION OF EACH MEMBER:
+So i will found this project very hard
+if my friend not help me.We both discuss
+how to write code if something went wrong
+he tell me and at last we make through 
+our shared corporation
+
